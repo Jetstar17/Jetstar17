@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about Programming Languages, Computer Architecture and Machine Learning
 - 📫 Reach me at jaykhatwani512@gmail.com
 - 💼 My Profile on LinkedIn [LinkedIn](https://www.linkedin.com/in/jay-khatwani-67a478311/)
-- 📈 My Data Science Profile at [Kaggle]()
+- 📈 My Data Science Profile at [Kaggle](https://www.kaggle.com/jaykhatwani)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact:  i am gym-freak
 
@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/jay-khatwani-67a478311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishit jakharia" height="30" width="40" /></a>
     <a href="https://www.instagram.com/jaykhatwani__0802/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishit jakharia" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/"><img align = "center" alt="Kaggle" src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3628869-3030009.png?f=webp&w=256" alt = "rishit jakharia" height="30" width="40"></a>
+  <a href="https://www.kaggle.com/jaykhatwani/"><img align = "center" alt="Kaggle" src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3628869-3030009.png?f=webp&w=256" alt = "rishit jakharia" height="30" width="40"></a>
 </div>
 
 <h3 align="left">Currently Working with languages</h3>
